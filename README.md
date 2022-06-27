@@ -1,3 +1,3 @@
 # estudojava-designpatterns-strategy
-Projeto de cálculo de impostos para fins de estudos.
-Apolicando conceito de Design Patterns - Strategy.
+Projeto de cálcuko de impostos, apenas para fins de estudo.
+Aplicando conceito de Design Patterns - Strategy.
